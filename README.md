@@ -9,12 +9,13 @@
 ### 💬 Ask me about backend technology, I am happy to help
 ### ⚡️ Fun fact: I'm a big fan of One Piece
 
+-----------
+
+## you can find 🌎
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelagueror23@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-aguero/)
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Angel_RAA)
 
 
 ### Languages and Tools 🛠 
@@ -34,7 +35,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-
+----
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-Raa)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Raa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
