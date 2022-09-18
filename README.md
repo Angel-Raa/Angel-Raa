@@ -4,6 +4,8 @@
 
 # I'm a Computer Science and Engineering Student
 
+**Talking about Personal Stuffs:**
+
 ### 🔭 I’m currently working on spring boot
 ### 💻 I’m currently learning everything about Backend technologies 
 ### 💬 Ask me about backend technology, I am happy to help
@@ -40,8 +42,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-Raa)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Raa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+-----
 
 
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
 
 
