@@ -1,5 +1,21 @@
 ### Hi, I'm Angel  👋
 
+```javascript
+const Angel = {
+   pronouns: "he" ,
+   code: [ HTML, Python, Java, ],
+   technologies: {
+      backEnd: {
+         java: ["Spring"],
+         Python: ["Django"],
+      },
+      databases: ["Postgresql", "SQLServer"],  
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+  
+};
+```
+
 
 
 
