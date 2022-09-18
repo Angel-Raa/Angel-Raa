@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+
+const Angel-Raa = {
+   pronouns: "he" 
+   code: [ HTML, Python, Java,],
+   technologies: {
+      backEnd: {
+         java: ["Spring"],
+         python: ["Django"],
+       
+      },
+      databases: [ "Postgresql", "SQLServer"],
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+};
+
+
+
+
 <!--
 **Angel-Raa/Angel-Raa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
