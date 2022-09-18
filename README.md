@@ -1,19 +1,6 @@
 ### Hi there 👋
 
 
-const Angel-Raa = {
-   pronouns: "he" 
-   code: [ HTML, Python, Java,],
-   technologies: {
-      backEnd: {
-         java: ["Spring"],
-         python: ["Django"],
-       
-      },
-      databases: [ "Postgresql", "SQLServer"],
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-};
 
 
 
