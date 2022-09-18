@@ -4,8 +4,10 @@
 
 # I'm a Computer Science and Engineering Student
 
-## 💻 I’m currently learning everything about Backend technologies 
-## ⚡️ Fun fact: I'm a big fan of One Piece
+### 🔭 I’m currently working on spring boot
+### 💻 I’m currently learning everything about Backend technologies 
+### 💬 Ask me about backend technology, I am happy to help
+### ⚡️ Fun fact: I'm a big fan of One Piece
 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelagueror23@gmail.com)
@@ -35,6 +37,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-Raa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Raa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
