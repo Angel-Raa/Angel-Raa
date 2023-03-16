@@ -6,7 +6,6 @@
 
 **Talking about Personal Stuffs:**
 
-### 🔭 I’m currently working on spring boot
 ### 💻 I’m currently learning everything about Backend technologies 
 ### 💬 Ask me about backend technology, I am happy to help
 ### ⚡️ Fun fact: I'm a big fan of One Piece
