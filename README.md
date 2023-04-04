@@ -4,12 +4,6 @@
 
 # I'm a Computer Science and Engineering Student
 
-**Talking about Personal Stuffs:**
-
-### 💻 I’m currently learning everything about Backend technologies 
-### 💬 Ask me about backend technology, I am happy to help
-### ⚡️ Fun fact: I'm a big fan of One Piece
-
 -----------
 
 ## you can find 🌎
