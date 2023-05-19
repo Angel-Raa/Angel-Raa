@@ -24,7 +24,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=Linux&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Mongodb](https://camo.githubusercontent.com/2cbbf5ca53964ce3051c6e93fbdd681459487365c5e0b9b7ab638587767506f9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f737072696e672f737072696e672d6f726967696e616c2e737667)
+![Spring Boot](https://img.shields.io/badge/-SQL-000000?style=flat&logo=springBoot)
 
 ----
 
