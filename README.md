@@ -5,7 +5,8 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-# 😃 Talk to me about!!
+----
+## Talk to me about!!
 
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, Vue JS TypeScript**
 - Backend development using **Java, Spring Boot**
