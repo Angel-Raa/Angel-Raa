@@ -33,6 +33,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Raa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
+<p align="center"> 
+  <b>Currently Playing🎶...</b><br><br>
+  <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
+</p>
 
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
