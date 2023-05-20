@@ -1,6 +1,5 @@
 # Hola bienvenid@
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <h3 align="center">backend developer from Dominican Republic</h3>
 
 <a target="_blank" align="center">
@@ -26,6 +25,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-Raa)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Raa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 -----
 
