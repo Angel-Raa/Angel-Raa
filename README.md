@@ -7,7 +7,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
------
+<br/><br/>
 ## Talk to me about!!
 
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, Vue JS, TypeScript**
