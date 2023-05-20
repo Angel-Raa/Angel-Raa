@@ -16,7 +16,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Angel-Raa">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
+		<a style="margin-left: 5px;" target="_blank" href="https://mail.google.com/mail/u/0/#inbox">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
