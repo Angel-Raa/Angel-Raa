@@ -1,11 +1,12 @@
 # Hola bienvenid@
 
-<div align="center">
+
 <h3 align="center">backend developer from Dominican Republic</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
 
 ## Talk to me about!!
 
@@ -36,7 +37,6 @@
 
 -----
 
-</div>
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
 
