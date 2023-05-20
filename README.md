@@ -22,6 +22,7 @@
       </div>
 
 </p>
+</hr>
 <br> 
 
 ### Languages and Tools 🛠 
