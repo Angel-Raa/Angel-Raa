@@ -14,6 +14,7 @@
 
 - Backend development using **Java, Spring Boot**
 
+-----
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -28,7 +29,7 @@
       </div>
 </p>
 
-
+-----
 
 -----
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-Raa)](https://github.com/anuraghazra/github-readme-stats)
