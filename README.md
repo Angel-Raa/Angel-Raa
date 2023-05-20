@@ -1,4 +1,4 @@
-# Hola bienvenid@
+<h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Angel Aguero.</h1>
 
 
 <h3 align="center">backend developer from Dominican Republic</h3>
