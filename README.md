@@ -7,12 +7,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <br/>
+
 ## Talk to me about!!
-<div align="center">
+
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, Vue JS TypeScript**
 
 - Backend development using **Java, Spring Boot**
-</div>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -25,7 +26,6 @@
 		<a style="margin-left: 5px;" target="_blank" href="https://mail.google.com/mail/u/0/#inbox">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
-
 </p>
 
 
