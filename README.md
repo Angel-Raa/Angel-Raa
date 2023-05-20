@@ -1,7 +1,7 @@
 # Hola bienvenid@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
+<h3 align="center">backend developer from Dominican Republic &#127470;&#127475</h3>
 # I'm a Computer Science and Engineering Student
 
 -----------
