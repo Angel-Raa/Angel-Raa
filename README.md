@@ -10,7 +10,7 @@
 
 ## Talk to me about!!
 
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, Vue JS TypeScript**
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, Vue JS, TypeScript**
 
 - Backend development using **Java, Spring Boot**
 
