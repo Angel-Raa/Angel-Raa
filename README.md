@@ -3,7 +3,7 @@
 
 <h3 align="center">backend developer from Dominican Republic</h3>
 
-<a target="_blank" align="center">
+<a target="_blank">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <br/>
@@ -29,7 +29,6 @@
       </div>
 </p>
 
------
 
 -----
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-Raa)](https://github.com/anuraghazra/github-readme-stats)
