@@ -1,5 +1,6 @@
 # Hola bienvenid@
 
+<div align="center">
 <h3 align="center">backend developer from Dominican Republic</h3>
 
 <a target="_blank" align="center">
@@ -35,7 +36,7 @@
 
 -----
 
-
+</div>
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
 
