@@ -11,7 +11,7 @@
 
 ## Talk to me about!!
 
-- Front-end development using **HTML, Javascript, CSS,  Vue JS, TypeScript**
+- Front-end development using **HTML, Javascript, CSS,  React js, TypeScript**
 
 - Backend development using **Java, Spring Boot**
 
