@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/angel-aguero/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/>
   </a>
-  <a href="https://mail.google.com/mail/" target="_blank">
+  <a href="angelagueror23@gmail.com" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/email--v1.png" alt="GitHub"/>
   </a>
 </p>
