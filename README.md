@@ -7,7 +7,7 @@
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Angel-Raa" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/doodle/40/000000/email--v1.png" alt="GitHub"/>
   </a>
 </p>
 
