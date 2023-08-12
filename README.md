@@ -1,31 +1,33 @@
 <h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Angel Aguero.</h1>
 
-<h3 align="center">Backend Developer from the Dominican Republic 🇩🇴</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-aguero/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/Angel-Raa" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
-  <img align="right" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF"/>
+  <img align="center" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF"/>
 </p>
 
 ## About Me 👨‍💻
 
-Hello! I'm Angel Aguero, a passionate Backend Developer based in the beautiful Dominican Republic. My journey in the world of programming started with a love for creating efficient and elegant solutions. I'm currently focused on honing my skills in Java and Spring Boot for backend development.
+Hello! I'm Angel Aguero, a passionate Backend Developer based in the beautiful Dominican Republic 🇩🇴. My journey in the world of programming started with a love for creating efficient and elegant solutions. I'm currently focused on honing my skills in Java and Spring Boot for backend development.
 
 ## Tech Stack 🛠️
 
 - Front-end: HTML, JavaScript, CSS, React.js, TypeScript
 - Back-end: Java, Spring Boot
 
-## Connect with Me 🤝
+## Featured Project 🚀
 
-Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/angel-aguero/) or explore my projects on [GitHub](https://github.com/Angel-Raa). I'm always excited to discuss new ideas and opportunities.
+Check out my project: [Project Name](https://github.com/Angel-Raa/)
+A brief description of the project and its significance.
 
-## GitHub Stats 📊
+## GitHub Contributions 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Angel-Raa&show_icons=true&theme=dark" alt="GitHub Stats"/>
@@ -34,6 +36,10 @@ Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Raa&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
+
+## Connect with Me 🤝
+
+Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/angel-aguero/) or explore my projects on [GitHub](https://github.com/Angel-Raa). I'm always excited to discuss new ideas and opportunities.
 
 ## Fun Fact 🎉
 
@@ -48,10 +54,12 @@ Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https:
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino GIF"/>
 </p>
 
-<h4 align="center">Thanks for stopping by! Feel free to explore my repositories. 😊</h4>
+
+
 
 
 
 <!--
 **Angel-Raa/Angel-Raa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-->
