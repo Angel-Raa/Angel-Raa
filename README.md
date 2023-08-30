@@ -22,11 +22,15 @@ Hello! I'm Angel Aguero, a passionate Backend Developer based in the beautiful D
 - **Front-end:** HTML, JavaScript, CSS, React.js, TypeScript
 - **Back-end:** Java, Spring Boot
 - **Databases:** Oracle, PostgreSQL
-
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle Logo"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL Logo"/>
-</div>
+![HTML](url_de_la_imagen_html)
+![JavaScript](url_de_la_imagen_js)
+![CSS](url_de_la_imagen_css)
+![React.js](url_de_la_imagen_react)
+![TypeScript](url_de_la_imagen_ts)
+![Java](url_de_la_imagen_java)
+![Spring Boot](url_de_la_imagen_spring)
+![Oracle](url_de_la_imagen_oracle)
+![PostgreSQL](url_de_la_imagen_postgresql)
 
 
 ## Featured Project 🚀
