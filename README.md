@@ -23,11 +23,6 @@ Hello! I'm Angel Aguero, a passionate Backend Developer based in the beautiful D
 - **Back-end:** Java, Spring Boot
 - **Databases:** Oracle, PostgreSQL
 
-## Featured Project 🚀
-
-Explore my project: [Project Name](https://github.com/Angel-Raa/)
-A brief description of the project and its significance.
-
 ## GitHub Statistics 📊
 
 <p align="center">
