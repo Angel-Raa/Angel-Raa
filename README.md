@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/angel-aguero/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Angel-Raa" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"/>
+  <a href="mailto:angelagueror23@gmail.com">
+    <img src="https://img.icons8.com/doodle/40/000000/email--v1.png" alt="Email"/>
   </a>
 </p>
 
