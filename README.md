@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img align="center" width="900" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="Coding GIF"/>
+  <img align="center" width="700" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="Coding GIF"/>
 </p>
 
 ## About Me 👨‍💻
