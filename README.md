@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="35"> I'm Angel Aguero.</h1>
+<h1 align="center">Hi there! <img src="" width="35"> I'm Angel Aguero.</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-aguero/" target="_blank">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img align="center" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF"/>
+  <img align="center" width="400" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="Coding GIF"/>
 </p>
 
 ## About Me 👨‍💻
