@@ -20,7 +20,7 @@ Hello! I'm Angel Aguero, a passionate Backend Developer based in the beautiful D
 ## Tech Stack 🛠️
 
 - **Back-end:** Java, Spring Boot
-- **Front-end:** HTML, JavaScript, CSS, React.js, TypeScript
+- **Front-end:** HTML, JavaScript, CSS, React.js
 - **Databases:** Oracle, PostgreSQL, Mongodb
 - **Build tools:** Maven
 - **Version Control:** Git
