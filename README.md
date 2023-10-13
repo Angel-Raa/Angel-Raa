@@ -40,18 +40,8 @@ Hello! I'm Angel Aguero, a passionate Backend Developer based in the beautiful D
 
 Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/angel-aguero/) or explore my projects on [GitHub](https://github.com/Angel-Raa). I'm always excited to discuss new ideas and opportunities.
 
-## Fun Fact 🎉
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px" alt="Fun GIF"/>
-  Did you know that I love solving puzzles and riddles in my free time? 🧩
-</p>
-
 ## Thanks for Dropping By! 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino GIF"/>
-</p>
 
 <!--
 **Angel-Raa/Angel-Raa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
