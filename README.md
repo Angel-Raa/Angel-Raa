@@ -17,15 +17,6 @@
 
 Hello! I'm Angel Aguero, a passionate Backend Developer based in the beautiful Dominican Republic 🇩🇴. My journey into the world of programming began with a love for creating efficient and elegant solutions. Currently, I'm dedicated to honing my skills in Java and Spring Boot for backend development.
 
-## Tech Stack 🛠️
-
-- **Back-end:** Java, Spring Boot
-- **Front-end:** HTML, JavaScript, CSS, React.js
-- **Databases:** Oracle, PostgreSQL, Mongodb
-- **Build tools:** Maven
-- **Version Control:** Git
-- **IDE:** Intellij IDEA, VS Code
-
 ## GitHub Statistics 📊
 
 <p align="center">
