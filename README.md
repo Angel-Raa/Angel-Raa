@@ -16,17 +16,6 @@
 ## About Me 👨‍💻
 Soy Ingeniero en Sistemas y Computación, apasionado por el desarrollo de software, las tecnologías web y la infraestructura
 
-
-## GitHub Statistics 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel-Raa&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Raa&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-
 ## Connect with Me 🤝
 
 Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/angel-aguero/) or explore my projects on [GitHub](https://github.com/Angel-Raa). I'm always excited to discuss new ideas and opportunities.
