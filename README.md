@@ -14,8 +14,8 @@
 </p>
 
 ## About Me 👨‍💻
+Soy Ingeniero en Sistemas y Computación, apasionado por el desarrollo de software, las tecnologías web y la infraestructura
 
-Hello! I'm Angel Aguero, a passionate Backend Developer based in the beautiful Dominican Republic 🇩🇴. My journey into the world of programming began with a love for creating efficient and elegant solutions. Currently, I'm dedicated to honing my skills in Java and Spring Boot for backend development.
 
 ## GitHub Statistics 📊
 
